@@ -1,5 +1,5 @@
 # LMCY_Configs
-Configuration files for LMCY
+Configuration files for LMCY/LMC
 #### IMPORTANT NOTES #####
 ****This is a configuration or XML archive of LMC with all stable builds released
-****Don't use this base without permission amd modification is allowed for personal use  only
+****Don't use this base without permission and modification is allowed for personal use  only
