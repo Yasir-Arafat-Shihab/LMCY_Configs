@@ -1,5 +1,7 @@
 # LMCY_Configs
 Configuration files for LMCY/LMC
+//For XMLS viee the codes section //
+
 #### IMPORTANT NOTES #####
 
 ****This is a configuration or XML archive of LMC with all stable builds released
