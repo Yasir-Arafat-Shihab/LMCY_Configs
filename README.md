@@ -1,6 +1,7 @@
 # LMCY_Configs
 Configuration files for LMCY/LMC
-//For XMLS viee the codes section //
+
+//For XMLS view the codes section //
 
 #### IMPORTANT NOTES #####
 
